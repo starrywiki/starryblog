@@ -1,5 +1,5 @@
 ---
-title: Welcome to My Blog
+title: Welcome here.
 ---
 
 Have a nice day 💫.

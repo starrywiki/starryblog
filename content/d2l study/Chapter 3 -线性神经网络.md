@@ -1,5 +1,6 @@
 ---
 tags:
   - notes
-draft: true
+draft: false
 ---
+# Linear Regression
