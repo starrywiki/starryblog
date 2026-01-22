@@ -3,7 +3,6 @@ tags:
   - notes
 draft: false
 ---
-
 ## Data Manipulation
 ### Some Definitions
 A **tensor** represents a (possibly multidimensional) array of numerical values.

@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ## notes
 参考[Python100Days](https://github.com/jackfrued/Python-100-Days/tree/master)
 1. 整型（`int`）：Python 中可以处理任意大小的整数
