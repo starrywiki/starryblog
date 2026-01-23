@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-## notes
+# notes
 参考[Python100Days](https://github.com/jackfrued/Python-100-Days/tree/master)
 1. 整型（`int`）：Python 中可以处理任意大小的整数
 	1. 二进制（如`0b100`，换算成十进制是4）
@@ -79,4 +79,3 @@ draft: true
 	6. 交换变量的值：直接`a, b, c = b, c, a` 
 	7. 可以和列表互换，如`list(infos)` or `tuple(frts)` 
 7. 字符串
-	1. 
